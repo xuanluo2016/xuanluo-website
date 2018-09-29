@@ -19,7 +19,7 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 ## Quick Start
 
 ### Step 1) Fork Jekyll Now to your User Repository
-test[link to html]<example_ioslides_pres.html>
+test[link to html](example_ioslides_pres.html)
 
 Fork this repo, then rename the repository to yourgithubusername.github.io.
 
